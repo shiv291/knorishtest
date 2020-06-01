@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewData["Title"] = "RemoveBoat";
+}
+
+<h4>Unregister Boat</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <h6  class="text-danger">
+            @if (ViewBag.msg != "")
+            {
+                @ViewBag.msg;
+            }
+        </h6>
+        <form asp-action="removeBoatMethod" enctype="multipart/form-data" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label class="control-label">Boat Number :</label>
+                <input name="BoatNumber" class="form-control" type="number" required />
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

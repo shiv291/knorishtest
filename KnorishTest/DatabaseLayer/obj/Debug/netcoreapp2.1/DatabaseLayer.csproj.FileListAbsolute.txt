@@ -1,0 +1,11 @@
+C:\Users\admin\source\repos\KnorishTest\DatabaseLayer\bin\Debug\netcoreapp2.1\DatabaseLayer.deps.json
+C:\Users\admin\source\repos\KnorishTest\DatabaseLayer\bin\Debug\netcoreapp2.1\DatabaseLayer.dll
+C:\Users\admin\source\repos\KnorishTest\DatabaseLayer\bin\Debug\netcoreapp2.1\DatabaseLayer.pdb
+C:\Users\admin\source\repos\KnorishTest\DatabaseLayer\obj\Debug\netcoreapp2.1\DatabaseLayer.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\KnorishTest\DatabaseLayer\obj\Debug\netcoreapp2.1\DatabaseLayer.AssemblyInfo.cs
+C:\Users\admin\source\repos\KnorishTest\DatabaseLayer\obj\Debug\netcoreapp2.1\DatabaseLayer.dll
+C:\Users\admin\source\repos\KnorishTest\DatabaseLayer\obj\Debug\netcoreapp2.1\DatabaseLayer.pdb
+C:\Users\admin\source\repos\KnorishTest\DatabaseLayer\bin\Debug\netcoreapp2.1\DatabaseLayer.runtimeconfig.json
+C:\Users\admin\source\repos\KnorishTest\DatabaseLayer\bin\Debug\netcoreapp2.1\DatabaseLayer.runtimeconfig.dev.json
+C:\Users\admin\source\repos\KnorishTest\DatabaseLayer\obj\Debug\netcoreapp2.1\DatabaseLayer.genruntimeconfig.cache
+C:\Users\admin\source\repos\KnorishTest\DatabaseLayer\obj\Debug\netcoreapp2.1\DatabaseLayer.csproj.CoreCompileInputs.cache
